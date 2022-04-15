@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: E-mail - agapiegabi2222@gmail.com
+- 🌱 I’m currently learning: JavaScript / HTML
 
 <!--
 **agapiegabriel/agapiegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
